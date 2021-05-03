@@ -1,0 +1,7 @@
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\bin\Debug\GameConsole.exe.config
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\bin\Debug\GameConsole.exe
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\bin\Debug\GameConsole.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\obj\Debug\GameConsole.exe
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\WorkingWithNulls\04 NullableOfBool\GameConsole\obj\Debug\GameConsole.pdb
